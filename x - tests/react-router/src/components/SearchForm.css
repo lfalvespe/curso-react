@@ -1,0 +1,16 @@
+.searchForm {
+    margin-top: 40px;
+}
+
+.searchForm input {
+    border: 0;
+    border-radius: 5px;
+    margin: 4px;
+    padding: 5px;
+    box-shadow: 1px 1px 2px #0000005e;
+    outline: 0;
+}
+
+#btnSearch:hover {
+    background-color: rgb(208, 255, 241);
+}

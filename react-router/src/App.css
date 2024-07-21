@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+    
+.header, .footer  {
+  background: #05002e;
+  color: #fff;
+  padding: 15px;
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "447f",
+      "name": "calça jeans masc ",
+      "price": "109.90"
+    },
+    {
+      "id": "7cda",
+      "name": "calça jeans fem",
+      "price": "139.90"
+    },
+    {
+      "id": "b94c",
+      "name": "calça jeans inf",
+      "price": "89.90"
+    },
+    {
+      "id": "fc3a",
+      "name": "blusa malha",
+      "price": "69.90"
+    },
+    {
+      "id": "fc47",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "15f3",
+      "name": "CAmiseta malha fem",
+      "price": "59.90"
+    },
+    {
+      "id": "d7ea",
+      "name": "CAmiseta malha fem",
+      "price": "59.90"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.products h1 {
+    margin: 40px;
+}
+
+.products .list {
+    margin: auto;
+    text-align: center;
+}
+
+.products .list ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    text-align: center;
+    gap: 5px;
+    list-style: none;
+}
+
+.products .list ul li {
+    text-align: center;
+    margin: auto;
+}

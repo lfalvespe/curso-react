@@ -1,0 +1,37 @@
+.prod-container {
+    border: 1px solid #000;
+    margin-bottom: 40px;
+}
+
+.prod-container ul{
+    margin: auto;
+}
+
+.prod-container li {
+    background-color: rgb(214, 211, 211);
+    padding: 5px;
+    margin: 10px auto;
+    width: 50%;
+    
+}
+
+.add-product {
+    background-color: #000;
+    color: #fff;
+    border-top: 1px solid #000;
+    text-align: center;
+    padding: 10px;
+}
+
+.add-product form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-product form input {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}

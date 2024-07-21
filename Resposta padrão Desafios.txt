@@ -1,0 +1,1 @@
+Já estou em um estágio mais avançado em React Js. Já realizando projetos utilizando os hooks mais usados, React Router, consumindo APIs, etc.

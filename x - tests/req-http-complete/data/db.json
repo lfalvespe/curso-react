@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "db22",
+      "name": "calça jeans fem",
+      "price": "139.90"
+    },
+    {
+      "id": "15b1",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "1e23",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "a63a",
+      "name": "boné",
+      "price": "37.8"
+    }
+  ]
+}

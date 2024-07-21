@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "monitor 23.5''",
+            "price": 490.00,
+            "details": "Monitor Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 2,
+            "name": "teclado mecânico",
+            "price": 234.80,
+            "details": "Teclado mecânico Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 3,
+            "name": "headset",
+            "price": 118.70,
+            "details": "Headset Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 4,
+            "name": "mouse gamer",
+            "price": 154.50,
+            "details": "Mouse Gamer Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 5,
+            "name": "webcam",
+            "price": 247.90,
+            "details": "webcam Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 6,
+            "name": "drone",
+            "price": 698.80,
+            "details": "drone Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 7,
+            "name": "caixa de som",
+            "price": 269.75,
+            "details": "caixa de som Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        },
+        {
+            "id": 8,
+            "name": "placa mãe",
+            "price": 986.65,
+            "details": "placa mãe Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempore necessitatibus ea hic obcaecati mollitia nobis atque dolores sed"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+.info {
+    width: 70%;
+    margin: 40px auto;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.info h3, p {
+    margin: 10px;
+}

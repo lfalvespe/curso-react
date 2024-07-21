@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+.active {
+    background: #000;
+    color: #fff;
+}

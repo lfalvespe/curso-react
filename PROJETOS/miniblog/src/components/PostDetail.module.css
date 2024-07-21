@@ -1,0 +1,36 @@
+.post_detail {
+    margin-bottom: 2em;
+}
+
+.post_detail img {
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+.post_detail h2 {
+    margin-bottom: .4em;
+    text-shadow: 1px 1px 2px #00000063;
+}
+
+.post_detail .tags {
+    margin-bottom: 1.2em;
+    display: flex;
+}
+
+.tags p {
+    margin-right: .5em;
+    color: rgb(103, 212, 255);
+    text-shadow: 1px 1px 2px #00000036;
+}
+
+.tags span {
+    font-weight: bold;
+    color: #d3d3d3;
+}
+
+.createdby {
+    font-style: italic;
+    color: #d3d3d3;
+    font-size: .8em;
+    margin-bottom: 1em;
+}

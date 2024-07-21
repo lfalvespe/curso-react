@@ -1,0 +1,7 @@
+https://github.com/matheusbattisti/curso_react
+
+
+
+O repositório do projeto do TMDB (API de filmes) é este: 
+
+https://github.com/matheusbattisti/movies_lib/tree/main

@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "db22",
+      "name": "calça jeans fem",
+      "price": "139.90"
+    },
+    {
+      "id": "ac21",
+      "name": "calça jeans masc ",
+      "price": "109.90"
+    },
+    {
+      "id": "15b1",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "1e23",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "48af",
+      "name": "CAmiseta malha masc",
+      "price": "59.90"
+    },
+    {
+      "id": "9079",
+      "name": "bermuda jeans inf",
+      "price": "69.90"
+    }
+  ]
+}

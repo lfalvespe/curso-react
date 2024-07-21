@@ -1,0 +1,54 @@
+{
+  "Products": [
+    {
+      "id": "1",
+      "name": "calça",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "camisa",
+      "price": 59.9
+    },
+    {
+      "id": "3",
+      "name": "tênis",
+      "price": 109.9
+    },
+    {
+      "id": "4",
+      "name": "sandália",
+      "price": 35.5
+    },
+    {
+      "id": "0501",
+      "name": "boné",
+      "price": "35.7"
+    },
+    {
+      "id": "0936",
+      "name": "meia",
+      "price": "14.8"
+    },
+    {
+      "id": "6781",
+      "name": "cinto masculino",
+      "price": "21.8"
+    },
+    {
+      "id": "0575",
+      "name": "casaco",
+      "price": "124.6"
+    },
+    {
+      "id": "a6c5",
+      "name": "bolsa feminina",
+      "price": "84.9"
+    },
+    {
+      "id": "8471",
+      "name": "colar feminino",
+      "price": "132.7"
+    }
+  ]
+}

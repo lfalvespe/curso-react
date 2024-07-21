@@ -1,0 +1,44 @@
+/* 
+
+PALETA:
+
+#1C418C azul escuro
+#D0DCF2 azul claro
+
+#504F59 cinza escuro
+#A6A6A6 cinza claro
+
+#0D0D0D preto
+
+*/
+
+nav {
+    display: flex;
+    justify-content: center;
+    column-gap: 5px;
+    /* padding: 5px; */
+    box-shadow: 2px 2px 4px #0000006c;
+    /* width: fit-content; */
+    margin: auto;
+    border: 0;
+    border-radius: 0 0 10px 10px;
+    background: #D0DCF2;
+}
+
+nav a {
+    text-decoration: none;
+    color: #504F59;
+    font-weight: bold;
+    padding: 8px 12px;
+    height:100%;
+}
+
+nav a:hover {
+    background-color: #504F59;
+    color: #fff;
+}
+
+.active {
+    background: #504F59;
+    color: #fff;
+}
